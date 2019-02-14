@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "447038573379",
+    "firebase_url": "https://collectdatabike.firebaseio.com",
+    "project_id": "collectdatabike",
+    "storage_bucket": "collectdatabike.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447038573379:android:cc1f0fa1a15d73a4",
+        "android_client_info": {
+          "package_name": "devine.prakash.com.collector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447038573379-s06qjhues7pa0q7frufsb27qjj85nfko.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "devine.prakash.com.collector",
+            "certificate_hash": "3e2753b1829b38dfda64e8e074f5850e6361a14a"
+          }
+        },
+        {
+          "client_id": "447038573379-tsaota0s1path6eu4b9ql4a0einutuc7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyJePpzOv-pYEJmkQghpjCxyouFdpCl4g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447038573379-tsaota0s1path6eu4b9ql4a0einutuc7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
